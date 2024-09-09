@@ -1,0 +1,122 @@
+/*-------------GENERAL------------*/
+
+html {
+    font-family: Helvetica;
+}
+.active {
+    background-color: #84bdff;
+}
+.marca{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.miku {
+    width: 140px;
+    height: 140px;
+    position: fixed;
+    top: 20px;
+    left: 30px;
+}
+
+.club {
+    width: 120px;
+    height: 140px;
+    position: fixed;
+    top: 20px;
+    right: 30px;
+}
+
+ul {
+    border-radius: 10px;
+    list-style-type: none;
+    margin: -15px;
+    padding-left: 10px;
+    overflow: hidden;
+    background-color: #3392ff;
+    width: 900px;
+}
+ul{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/*-------------PSP TITULOS------------*/
+hr{
+    margin-top: -5px;
+    background-color: #3392ff;
+}
+.divpsp{
+    width: 860px;
+    height: 2580px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 40px 3px rgba(0, 0, 0, 0.1);
+}
+.psptitle{
+    text-align: left;
+    font-size: 50px;
+    margin-top: -5px;
+    margin-bottom: 0px;
+    line-height: 55px;
+}
+.psp2{
+    color: rgb(161, 161, 161);
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100;
+}
+.pretitle{
+    color: #1683ff;
+    font-weight: 800;
+}
+.pspimg{
+    width: 850px;
+    height: auto;
+    display: block;
+    margin-bottom: 0px;
+}
+.h3-1{
+    color: gray;
+    font-weight: 200;
+    font-size: 15px;
+}
+p{
+    font-size: 19px;
+    line-height: 30px;
+}
+.psp2{
+    width: 850px;
+    height: auto;
+}
+.fecha{
+    color: grey;
+    font-size: 15px;
+    font-weight: lighter;
+}
+i{
+    color: #1683ff;
+    font-size: 25px;
+    margin-right: 10px;
+}
